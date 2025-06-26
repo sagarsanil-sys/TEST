@@ -5,4 +5,3 @@ p=ap+lp
 
 #######NEW UPDATE##
 
-####percentage###
